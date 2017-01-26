@@ -10,8 +10,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [Pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
-
-You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
+-  [Jupyter Notebook](http://ipython.org/notebook.html)
 
 ### Run
 
@@ -25,7 +24,6 @@ or
 jupyter notebook boston_housing.ipynb
 ```
 
-This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
 
